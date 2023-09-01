@@ -76,21 +76,18 @@
   
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
+ 
 
 <br/>  
   
+<br/>  
+
+## My Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitamsaha&count_private=true&show_icons=true&theme=dark)
+<br />
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ArpitamSaha&&style=flat-square" align="center" />
 </div>  
   
 
-<br/>  
-
-## My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binay-tripathy&count_private=true&show_icons=true&theme=dark)
-<br />
