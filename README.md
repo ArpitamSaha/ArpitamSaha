@@ -91,5 +91,6 @@
 
 <br/>  
 
-
+## My Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binay-tripathy&count_private=true&show_icons=true&theme=dark)
 <br />
