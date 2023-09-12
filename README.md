@@ -86,8 +86,8 @@
   
 <br/>
 <div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=arpitamsaha&theme=highcontrast&hide_border=true&fire=26EBEA&ring=26EBEA)](https://git.io/streak-stats)
- 
+<a> [![GitHub Streak](https://streak-stats.demolab.com?user=arpitamsaha&theme=highcontrast&hide_border=true&fire=26EBEA&ring=26EBEA)](https://git.io/streak-stats)
+ </a>
 </div>
 
 
