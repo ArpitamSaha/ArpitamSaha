@@ -86,9 +86,7 @@
   
 <br/>
 <div>
-<a href="https://git.io/streak-stats">
-  <img height=200 width="49%" align="center" src="[https://streak-stats.demolab.com?user=binay-tripathy&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D](https://streak-stats.demolab.com?user=ArpitamSaha&theme=highcontrast&hide_border=true&fire=26EBEA&ring=26EBEA)](https://git.io/streak-stats)" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=arpitamsaha&theme=highcontrast&hide_border=true&fire=26EBEA&ring=26EBEA)](https://git.io/streak-stats)
  
 </div>
 
