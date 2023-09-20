@@ -27,8 +27,8 @@
 <br>
 <div>
  
-<a href="https://github.com/binay-tripathy/github-readme-stats">
-  <img height=200 width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=binay-tripathy&hide_border=true&count_private=true&show_icons=true&theme=dark" />
+<a href="https://github.com/arpitamsaha/github-readme-stats">
+  <img height=200 width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=arpitamsaha&hide_border=true&count_private=true&show_icons=true&theme=dark" />
 </a>
    
  </div>
@@ -37,7 +37,7 @@
 <br/>
 
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binay-tripathy&count_private=true&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitamsaha&count_private=true&show_icons=true&theme=dark)
 
 
 
