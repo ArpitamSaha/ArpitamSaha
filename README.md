@@ -31,11 +31,6 @@
   <img height=200 width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=arpitamsaha&hide_border=true&count_private=true&show_icons=true&theme=dark" />
 </a>
    
- </div>
-
- <br/>
-<br/>
-
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitamsaha&count_private=true&show_icons=true&theme=dark)
 
