@@ -27,14 +27,10 @@
 <br>
 <div>
  
-<a href="https://git.io/streak-stats">
-  <img height=200 width="49%" align="center" src="https://streak-stats.demolab.com?user=binay-tripathy&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</a>
-   
 <a href="https://github.com/binay-tripathy/github-readme-stats">
   <img height=200 width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=binay-tripathy&hide_border=true&count_private=true&show_icons=true&theme=dark" />
 </a>
-
+   
  </div>
 
  <br/>
