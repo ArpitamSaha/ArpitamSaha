@@ -27,9 +27,7 @@
 <br>
 <div>
 
-<a href="/">
-<img align="center" src="https://streak-stats.demolab.com?user=ArpitamSaha&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-</a>
+![](https://streak-stats.demolab.com?user=arpitamsaha&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
  
 <a href="https://github.com/arpitamsaha/github-readme-stats">
