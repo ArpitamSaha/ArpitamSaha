@@ -8,8 +8,6 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi there 👋<h2> I'm Arpitam</h2>
 
-<img align='right' src="https://user-images.githubusercontent.com/76717116/200188908-e5fcce49-05c3-4d55-9778-ade04327ec56.gif" width="300">
-
 
 # 💫 About Me:
 🤔   Exploring new technologies.<br><br>🎓   Studying Computer Science and Engineering and Information Technology at ITER Bhubaneswar.<br><br>🌱   Learning about Express Js.<br><br>✍️   Pursuing Web Development as hobbies/side hustles.
