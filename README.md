@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SkillSync [Resume Filter]<br>👯 Looking to collaborate on Full Stack Projects<br>🌱 Azure Cloud and ASP.NET
+🔭 I’m currently working on SkillSync [Resume Filter]<br>👯 Looking to collaborate on Full Stack Projects<br>🌱 Azure Cloud and ASP.NET 
 
 
 ## 🌐 Socials:
